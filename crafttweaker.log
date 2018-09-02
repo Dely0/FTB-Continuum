@@ -1,0 +1,1537 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 00_removed.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'removed.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'removed.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 01_unification.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'unification.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding Crude Oil to ore dictionary entry crude_oil
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: gear
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: plate
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Iridium Plate
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Certus Quartz Dust
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Fluix Dust
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Crushed Quartz
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Crushed Black Quartz
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Uranium Grit
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Uranium Grit
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Pulverized Iridium
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Pulverized Iridium
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Certus Quartz Crystal
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Charged Certus Quartz Crystal
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Dilithium Dust
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Pulverized Platinum
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Pulverized Aluminum
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Basalz Powder
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Blitz Powder
+[INITIALIZATION][CLIENT][INFO] Adding GRINDER_RECIPE recipe for Blizz Powder
+[INITIALIZATION][CLIENT][INFO] Removing INDUSTRIAL_GRINDER_RECIPE recipe
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_GRINDER_RECIPE recipe for Iridium Ingot
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Fluxed Electrum Plate
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Signalum Plate
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Enderium Plate
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Lumium Plate
+[INITIALIZATION][CLIENT][INFO] Removing COMPRESSOR_RECIPE recipe
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Iron Plate
+[INITIALIZATION][CLIENT][INFO] Removing COMPRESSOR_RECIPE recipe
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Gold Plate
+[INITIALIZATION][CLIENT][INFO] Removing Block of Gold from ore dictionary entry blockMetal
+[INITIALIZATION][CLIENT][INFO] Removing Block of Iron from ore dictionary entry blockMetal
+[INITIALIZATION][CLIENT][INFO] Initialized 'unification.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 02_durability.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'durability.zs'...
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden Pickaxe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden Sword to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden Shovel to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden Axe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden Hoe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden AIOT to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron Sickle to 500
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Golden Sickle to 64
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond Sickle to 3122
+[INITIALIZATION][CLIENT][INFO] Initialized 'durability.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 03_JEI.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'JEI.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:ionite>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:erodium>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:kyronite>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:pladium>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:litherite>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:aethium>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <environmentaltech:lonsdaleite>: Must be found on far away planets!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <advancedrocketry:charcoallog>: Found on some planets
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <bqt:bqbook>: Bound to GRAVE key by default; book is not required to be in you inventory.
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:drum>: Contents are not kept when used in crafting recipes!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:drum:1>: Contents are not kept when used in crafting recipes!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:drum:2>: Contents are not kept when used in crafting recipes!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:drum:3>: Contents are not kept when used in crafting recipes!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <libvulpes:ore0>: Only obtained in Void Ore Miner Tier 6
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:coal_ore>: Found in overworld from y0 to y128
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:iron_ore>: Found in overworld from y0 to y64
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:gold_ore>: Found in overworld from y0 to y32
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:lapis_ore>: Found in overworld from y0 to y32
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:redstone_ore>: Found in overworld from y0 to y16
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:diamond_ore>: Found in overworld from y0 to y16
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:emerald_ore>: Found in overworld from y0 to y16; rare chance of spawning with diamonds
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore>: Found in overworld from y40 to y75
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:1>: Found in overworld from y20 to y55
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:2>: Found in overworld from y5 to y30
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:3>: Found in overworld from y5 to y30
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:7>: Found in overworld from y8 to y75; rare!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:6>: Found in overworld from y8 to y75; rare!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:5>: Found in overworld from y5 to y20
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalfoundation:ore:4>: Found in overworld from y48 to y72
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <techreborn:ore:8>: Found in overworld from y0 to y10; rare!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <techreborn:ore:10>: Found in overworld from y16 to y42
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <techreborn:ore:3>: Found in overworld from y16 to y42
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <techreborn:ore:2>: Found in overworld from y16 to y42
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <immersiveengineering:ore:5>: Found in overworld from y16 to y42
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <techreborn:ore:4>: Found in overworld from y48 to y72
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <forestry:resources>: Found in overworld from y54 to y96
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:quartz_ore>: Found in overworld from y24 to y48
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ore:oreChargedCertusQuartz>: Found in overworld from y24 to y48; rare chance of spawning with certus quartz
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <actuallyadditions:block_misc:3>: Disabled in world gen! Black quartz is made in the eFab!
+[INITIALIZATION][CLIENT][INFO] Initialized 'JEI.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 04_lootTables.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'lootTables.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'lootTables.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 05_seeds.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'seeds.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'seeds.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 06_brewing.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'brewing.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'brewing.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 07_smelting.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'smelting.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'smelting.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: actuallyAdditions.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'actuallyAdditions.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'actuallyAdditions.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: advancedRocketry.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'advancedRocketry.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'advancedRocketry.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: appliedEnegistics.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'appliedEnegistics.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'appliedEnegistics.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: bibliocraft.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'bibliocraft.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'bibliocraft.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: buildersWands.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'buildersWands.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'buildersWands.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: chestTransporter.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'chestTransporter.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'chestTransporter.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: cookingForBlockheads.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'cookingForBlockheads.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'cookingForBlockheads.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: creativeItems.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'creativeItems.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:passivegenerator:6>: Creative Blocks cannot be pickup by non-ops once placed!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:creativeenergy>: Creative Blocks cannot be pickup by non-ops once placed!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <thermalexpansion:tank>.withTag({RSControl: 0 as byte, Creative: 1 as byte, Level: 4 as byte}): Creative Blocks cannot be pickup by non-ops once placed!
+[INITIALIZATION][CLIENT][INFO] Initialized 'creativeItems.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: darkUtils.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'darkUtils.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'darkUtils.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: efab.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'efab.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <efab:rfstorage_advanced>: Disabled until bug is fixed!
+[INITIALIZATION][CLIENT][INFO] Initialized 'efab.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: enderStorage.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'enderStorage.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <enderstorage:ender_storage>: Any wool color crafts WHITE/WHITE/WHITE!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <enderstorage:ender_storage:1>: Any wool color crafts WHITE/WHITE/WHITE!
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <enderstorage:ender_pouch>: Any wool color crafts WHITE/WHITE/WHITE!
+[INITIALIZATION][CLIENT][INFO] Initialized 'enderStorage.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: engineersWorkshop.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'engineersWorkshop.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'engineersWorkshop.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: environmentalTech.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'template.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'template.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: exchangers.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'exchangers.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'exchangers.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: extraUtilities.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'extraUtilities.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'extraUtilities.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: extremeReactors.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'template.zs'...
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorcoolantport.legacy.name to Reactor Coolant Port
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinefluidport.legacy.name to Turbine Fluid Port
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorcreativecoolantport.legacy.name to Reactor Creative Coolant Port
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinerotorshaft.legacy.name to Turbine Rotor Shaft
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactoraccessport.legacy.name to Reactor Access Port
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinehousing.legacy.name to Turbine Housing
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorrednetport.legacy.name to Reactor Rednet Port
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinebearing.legacy.name to Turbine Bearing
+[INITIALIZATION][CLIENT][INFO] Translating item.bigreactors:turbinehousingcores.legacy.name to Turbine Housing Core
+[INITIALIZATION][CLIENT][INFO] Translating item.bigreactors:reactorcasingcores.legacy.name to Reactor Casing Core
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorfuelrod.legacy.name to Reactor Fuel Rod
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorcontrolrod.legacy.name to Reactor Control Rod
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorglass.legacy.name to Reactor Glass
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinepowertaprf.legacy.name to Turbine RF Power Tap
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorredstoneport.legacy.name to Reactor Redstone Port
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorcontroller.legacy.name to Reactor Controller
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorpowertaprf.legacy.name to Reactor RF Power Tap
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:reactorcasing.legacy.name to Reactor Casing
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbineglass.legacy.name to Turbine Glass
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinecontroller.legacy.name to Turbine Controller
+[INITIALIZATION][CLIENT][INFO] Translating tile.bigreactors:turbinerotorblade.legacy.name to Turbine Rotor Blade
+[INITIALIZATION][CLIENT][INFO] Initialized 'template.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: fluxNetworks.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'template.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'template.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: forestry.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'forestry.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'forestry.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gendustry.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'gendustry.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'gendustry.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: harvestcraft.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'harvestcraft.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'harvestcraft.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: immersiveEngineering.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'immersiveEngineering.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Coal Coke
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Block of Coal Coke
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Iridium Alloy Plate
+[INITIALIZATION][CLIENT][INFO] Initialized 'immersiveEngineering.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: industrialForegoing.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'industrialForegoing.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'industrialForegoing.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ironBackpacks.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ironBackpacks.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ironBackpacks.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ironChests.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'ironChests.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'ironChests.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: minecraft.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'minecraft.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Oak Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Acacia Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Dark Oak Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Jungle Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Birch Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Spruce Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Apple Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Fig Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Butternut Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Whitebeam Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Rowan Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Hemlock Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Ash Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Alder Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Beech Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Hawthorn Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Banana Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Yew Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Cypress Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Fir Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Hazel Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Hickory Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Elm Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Elder Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Holly Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Hornbeam Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Cedar Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Olive Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Sweetgum Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Locust Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Pear Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Maclura Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Brazilwood Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Logwood Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Rosewood Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Purpleheart Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Iroko Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Gingko Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Eucalyptus Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Box Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Syzgium Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Pink Ivory Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Larch Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Teak Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Desert Acacia Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Lime Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Chestnut Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Wenge Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Baobab Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Sequoia Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Kapok Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Ebony Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Mahogany Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Balsa Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Willow Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Walnut Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Greenheart Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Cherry Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Mahoe Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Poplar Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Palm Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Papaya Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Pine Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Plum Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Maple Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Citrus Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Giant Sequoia Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Ipe Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Padauk Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Cocobolo Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Zebrawood Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Maple Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Silverbell Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Amaranth Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Tigerwood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Willow Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Eucalyptus Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Hopseed Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Sakura Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Redwood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Ghostwood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Ghostwood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Bloodwood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Darkwood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Fusewood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Rubber Wood Planks
+[INITIALIZATION][CLIENT][INFO] Adding INDUSTRIAL_SAWMILL_RECIPE recipe for Fir Wood Planks
+[INITIALIZATION][CLIENT][INFO] Initialized 'minecraft.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: natura.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'natura.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'natura.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: openBlocks.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'openBlocks.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'openBlocks.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oreExcavationIntergration.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'oreExcavationIntergration.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'oreExcavationIntergration.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: powerSystems\powerGeneration.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'powerGeneration.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'powerGeneration.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: powerSystems\powerStorage.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'powerStorage.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'powerStorage.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: powerSystems\powerTransport.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'powerTransport.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'powerTransport.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: projectE.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'projectE.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Dark Matter Block
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Red Matter Block
+[INITIALIZATION][CLIENT][INFO] Initialized 'projectE.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: quark.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'quark.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'quark.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: rangedPumps.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'rangedPumps.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'rangedPumps.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: redstoneArsenal.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'redstoneArsenal.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'redstoneArsenal.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: refinedStorage.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'refinedStorage.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'refinedStorage.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: rftools.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'rftools.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'rftools.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: simplyJetpacks.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'simplyJetpacks.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Bronze Armor Plating
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Invar Armor Plating
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Enderium Armor Plating
+[INITIALIZATION][CLIENT][INFO] Initialized 'simplyJetpacks.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: stevesCarts.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'stevesCarts.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'stevesCarts.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: storageDrawers.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'storageDrawers.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'storageDrawers.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: techReborn.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'techReborn.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Tin Cable
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Gold Cable
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for HV Cable
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Basic Machine Frame
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Refined Iron Plate
+[INITIALIZATION][CLIENT][INFO] Adding COMPRESSOR_RECIPE recipe for Refined Iron Plate
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Constantan Ingot
+[INITIALIZATION][CLIENT][INFO] Removing ArcFurnace Recipe for Tungsten Ingot
+[INITIALIZATION][CLIENT][INFO] Removing ArcFurnace Recipe for Chrome Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Aluminum Brass Ingot
+[INITIALIZATION][CLIENT][INFO] Removing EXTRACTOR_RECIPE recipe
+[INITIALIZATION][CLIENT][INFO] Removing EXTRACTOR_RECIPE recipe
+[INITIALIZATION][CLIENT][INFO] Removing EXTRACTOR_RECIPE recipe
+[INITIALIZATION][CLIENT][INFO] Initialized 'techReborn.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermalCultivation.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'thermalCultivation.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'thermalCultivation.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermalDynamics.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'thermalDynamics.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'thermalDynamics.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermalExpansion.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'thermalExpansion.zs'...
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Hardened Glass
+[INITIALIZATION][CLIENT][INFO] Initialized 'thermalExpansion.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tinkersConstruct.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'tinkersConstruct.zs'...
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:signalum>
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:enderium>
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:lumium>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:327>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:328>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:352>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:353>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:357>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:356>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:355>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:354>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:359>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:358>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:32>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:33>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:320>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:321>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:322>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:323>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:324>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:325>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <thermalfoundation:material:326>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <immersiveengineering:metal:35>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <techreborn:plates:33>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <techreborn:plates:17>
+[INITIALIZATION][CLIENT][INFO] Altering Drying Recipe(s) for <minecraft:leather>
+[INITIALIZATION][CLIENT][INFO] Initialized 'tinkersConstruct.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: torchMaster.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'torchMaster.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'torchMaster.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: translocators.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'translocators.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'translocators.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: wirelessRedstone.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'wirelessRedstone.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'wirelessRedstone.zs'
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: yabba.zs}
+[INITIALIZATION][CLIENT][INFO] Initializing 'yabba.zs'...
+[INITIALIZATION][CLIENT][INFO] Initialized 'yabba.zs'
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 1065ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:armor/powerpack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:string>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <rftools:storage_module_tablet>
+[POSTINITIALIZATION][CLIENT][INFO] 1 removed
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silicon with name ct_shapeless1319358450
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silicon with name ct_shapeless-125307750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Ingot with name ct_shapeless-604840357
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Uranium Ingot with name ct_shapeless281763275
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tungsten Ingot with name ct_shapeless-1751424939
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Ingot with name ct_shapeless-1777513979
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Titanium Ingot with name ct_shaped1702095502
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Block with name ct_shapeless-1511625497
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Block of Titanium with name ct_shapeless93159813
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Ingot with name ct_shapeless-2060905741
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Ingot with name ct_shapeless795465277
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Nugget with name ct_shapeless-217917850
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Nugget with name ct_shapeless903248742
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Platinum with name ct_shaped-1841698833
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Tin with name ct_shaped-1673243791
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Gold with name ct_shaped1237607763
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Lead with name ct_shaped303148039
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Silver with name ct_shaped745980456
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name ct_shaped-1252237941
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Coil with name ct_shaped2070214231
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Coil with name ct_shaped-20266
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Display Stand with name ct_shaped2089970468
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill with name ct_shaped-1043701959
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energizer with name ct_shaped-266035289
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Mining Augment I with name ct_shaped1025625385
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Speed Augment I with name ct_shaped-896355687
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Speed Augment II with name ct_shaped540344704
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Speed Augment III with name ct_shaped187718958
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Silk Touch Augment with name ct_shaped894416091
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Fortune Augment I with name ct_shaped-1861238833
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drill Fortune Augment II (Gives Fortune III!) with name ct_shaped-1255813888
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto-Placer with name ct_shaped323054638
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto-Breaker with name ct_shaped-254678273
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Phantomface with name ct_shaped-121195051
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Farmer with name ct_shaped-629158338
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Automatic Feeder with name ct_shaped1407433922
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Small Storage Crate with name ct_shaped-1791688500
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ESD (Extreme Sand Digger) with name ct_shaped-41314632
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Machine Structure with name ct_shaped-1134390364
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quartz Grindstone with name ct_shaped969445267
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for ME Controller with name ct_shapeless-2019331878
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Energy Acceptor with name ct_shapeless1170103634
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 1k ME Storage Component with name ct_shaped-56916718
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 4k ME Storage Component with name ct_shaped1789323659
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 16k ME Storage Component with name ct_shaped-679703050
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 64k ME Storage Component with name ct_shaped-973447211
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wireless Fluid Terminal with name ct_shaped214663495
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wireless Terminal with name ct_shaped2060873976
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Quantum Ring with name ct_shaped435366104
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infinity Booster Card with name ct_shaped1730136616
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Print Press Chase with name ct_shaped559113240
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Typesetting Table with name ct_shaped-616696890
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Printing Press with name ct_shaped1477074916
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Wand with name ct_shaped-1825820827
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Wand with name ct_shaped2112232043
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Wand with name ct_shaped-609131204
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Chest Transporter with name ct_shaped-1636487210
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Chest Transporter with name ct_shaped1500381928
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Watering Can (Creative) with name ct_shaped-454707027
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Creative Modifier with name ct_shaped-1925369279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux Capacitor (Creative) with name ct_shaped967048388
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Creative Mill with name ct_shaped-2080013291
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Creative Energy Source with name ct_shaped-169312881
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Portable Tank (Creative) with name ct_shaped1278783246
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Vector Plate with name ct_shaped140349059
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Timer with name ct_shaped-327451494
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sleep Charm with name ct_shaped1096350363
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for EFab Crafting Grid with name ct_shaped2001075836
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gear Box with name ct_shaped-1340296594
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tank with name ct_shaped256877998
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Tank with name ct_shaped1305953622
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pipes with name ct_shaped-600250193
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steam Engine with name ct_shaped-947931209
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Boiler with name ct_shaped-465072974
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Upgrade with name ct_shaped-1946413214
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for RF Control with name ct_shaped-53592534
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for RF Storage with name ct_shaped1785259658
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item Storage with name ct_shaped-2102390544
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Processor with name ct_shaped-1688656091
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafter with name ct_shaped1181370143
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Digital Upgrade with name ct_shaped-1168620745
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Optimizer with name ct_shaped1495239244
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Monitor with name ct_shaped119217130
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Autocrafting Monitor with name ct_shaped-1978931015
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Chest with name ct_shaped-146761306
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Tank with name ct_shaped-1826746736
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Pouch with name ct_shaped-1277768655
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Storage Upgrade with name ct_shapeless1499053792
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Assembler with name ct_shaped319222300
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Null Modifier with name ct_shaped1787502639
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Speed Modifier with name ct_shaped1415473083
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Accuracy Modifier with name ct_shaped-1034579765
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 1 with name ct_shaped67503857
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 1 with name ct_shaped-1525292022
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Frame Tier 1 with name ct_shaped-1932959686
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 2 with name ct_shaped-1883740302
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 2 with name ct_shaped1384458806
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Frame Tier 2 with name ct_shaped-398344415
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 3 with name ct_shaped-1969046378
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Resource Miner Controller Tier 3 with name ct_shaped-1598040462
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Frame Tier 3 with name ct_shaped-772518205
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 4 with name ct_shaped1438858166
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Frame Tier 4 with name ct_shaped-495969872
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 5 with name ct_shaped-1320076164
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Frame Tier 5 with name ct_shaped-177187921
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Ore Miner Controller Tier 6 with name ct_shaped-655087178
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Structure Frame Tier 6 with name ct_shaped1950704401
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bag Of Holding with name ct_shaped-1295926512
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bag Of Holding with name ct_shaped-250172047
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Drum with name ct_shaped-23800448
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Large Drum with name ct_shaped1724144904
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Drum with name ct_shaped-23800447
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Drum with name ct_shaped1461555971
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Demonically Gargantuan Drum with name ct_shaped577474327
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Transfer Node (Fluids) with name ct_shaped-975834432
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Transfer Node (Items) with name ct_shaped-1980033162
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchanter with name ct_shaped-1913942720
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Spikes with name ct_shaped-108965922
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Spikes with name ct_shaped-231553976
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Golden Spikes with name ct_shaped1491004502
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mechanical Crafter with name ct_shaped446469184
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonator with name ct_shaped1616365148
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Terraformer with name ct_shaped32079044
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Climograph Base Unit with name ct_shaped1742993423
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Water Mill with name ct_shaped-360791340
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wind Mill with name ct_shaped1448795890
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lava Mill with name ct_shaped-1630454926
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Mill with name ct_shaped109933509
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Turbine Housing with name ct_shaped-253037461
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reactor Casing with name ct_shaped-1498481271
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux Core with name ct_shaped-1035991107
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Carpenter with name ct_shaped-1113158776
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Thermionic Fabricator with name ct_shaped967807258
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Coal with name ct_shapeless-845854074
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cyanite Dust with name ct_shapeless-1455695522
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Blutonium Dust with name ct_shapeless88998492
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zinc Dust with name ct_shapeless1698453400
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Lead with name ct_shapeless-841283628
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Nickel with name ct_shapeless703410386
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Tin with name ct_shapeless911882006
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Platinum with name ct_shapeless2085607732
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Gold with name ct_shapeless-1983722754
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wax Capsule with name ct_shaped-2105645318
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coke Brick with name ct_shaped-1410517262
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blast Brick with name ct_shaped1888479062
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Storage Crate with name ct_shaped-1454968657
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Barrel with name ct_shaped-583583826
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Metal Barrel with name ct_shaped277915285
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Kinetic Dynamo with name ct_shaped760024904
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Conveyor Belt with name ct_shaped1073725180
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Metal Press Mold: Plate with name ct_shaped1414948444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Mechanical Component with name ct_shaped1189889012
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Mechanical Component with name ct_shaped1101686837
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluid Pipe with name ct_shaped142730039
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tesla Coil with name ct_shaped-2095835807
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Railgun with name ct_shaped-1697693750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Additional Capacitors with name ct_shaped1786712560
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Capacitor Backpack with name ct_shaped-1364603629
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Garden Cloche with name ct_shaped24726862
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Block of Uranium with name ct_shaped-1448444543
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Sheetmetal with name ct_shapeless507312624
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrum Sheetmetal with name ct_shapeless-564512337
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Constantan Sheetmetal with name ct_shapeless-397871684
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Uranium Sheetmetal with name ct_shapeless-1803408365
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nickel Sheetmetal with name ct_shapeless169141872
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silver Sheetmetal with name ct_shapeless-2086795049
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Sheetmetal with name ct_shapeless1496220374
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminium Sheetmetal with name ct_shapeless-1197745665
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Sheetmetal with name ct_shapeless-681922424
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Sheetmetal with name ct_shapeless-1267141497
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Sheetmetal with name ct_shapeless1240950965
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Engineer's Blueprint with name ct_shaped-727464881
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tree Fluid Extractor with name ct_shaped1477314269
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Hole Unit with name ct_shaped-1801068832
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Hole Controller with name ct_shaped1245385170
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Hole Tank with name ct_shaped1308828366
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped1190202408
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped1612244958
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped848379874
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped-129144388
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped828751514
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped591586708
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped1129905614
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped1050606508
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped-1591684594
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped-1387934617
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Range Addon with name ct_shaped1541247514
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Meat Feeder with name ct_shaped-359375100
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Backpack with name ct_shaped-288274021
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Slightly-Larger Chest with name ct_shaped1406290732
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Chest with name ct_shaped1543224379
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Chest with name ct_shaped1774643590
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Chest with name ct_shaped2126906917
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Chest with name ct_shaped-305075954
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Chest with name ct_shaped1649114576
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crystal Chest with name ct_shaped-1289103972
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Chest with name ct_shaped1174852472
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Chest with name ct_shaped-1087982373
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stick with name ct_shapeless-755452111
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Wood Planks with name ct_shapeless-591347211
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Acacia Wood Planks with name ct_shapeless1786738661
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dark Oak Wood Planks with name ct_shapeless-1074240965
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Jungle Wood Planks with name ct_shapeless-920777625
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Birch Wood Planks with name ct_shapeless-1614802843
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Spruce Wood Planks with name ct_shapeless1986139235
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Apple Wood Planks with name ct_shapeless-1122378446
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fig Wood Planks with name ct_shapeless-1911390880
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Butternut Wood Planks with name ct_shapeless200823010
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Whitebeam Wood Planks with name ct_shapeless-1981930396
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Rowan Wood Planks with name ct_shapeless1440321517
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hemlock Wood Planks with name ct_shapeless-1168660315
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ash Wood Planks with name ct_shapeless943553575
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Alder Wood Planks with name ct_shapeless-1239199831
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Beech Wood Planks with name ct_shapeless-1450522510
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hawthorn Wood Planks with name ct_shapeless-425929750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Banana Wood Planks with name ct_shapeless173865393
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Yew Wood Planks with name ct_shapeless-2008888013
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cypress Wood Planks with name ct_shapeless-1415569284
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fir Wood Planks with name ct_shapeless-1195617932
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hazel Wood Planks with name ct_shapeless916595958
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hickory Wood Planks with name ct_shapeless-1266157448
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Elm Wood Planks with name ct_shapeless-767884425
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Elder Wood Planks with name ct_shapeless-930862555
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Holly Wood Planks with name ct_shapeless1181351335
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hornbeam Wood Planks with name ct_shapeless-1001402071
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cedar Wood Planks with name ct_shapeless-739661326
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Olive Wood Planks with name ct_shapeless-188131990
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sweetgum Wood Planks with name ct_shapeless1924081900
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Locust Wood Planks with name ct_shapeless-258671506
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pear Wood Planks with name ct_shapeless664461943
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Maclura Wood Planks with name ct_shapeless554598575
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Brazilwood Wood Planks with name ct_shapeless1379213076
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Logwood Wood Planks with name ct_shapeless-803540330
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Rosewood Wood Planks with name ct_shapeless-386383201
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Purpleheart Wood Planks with name ct_shapeless9729751
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iroko Wood Planks with name ct_shapeless2121943641
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gingko Wood Planks with name ct_shapeless-60809765
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Eucalyptus Wood Planks with name ct_shapeless-413390404
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Box Wood Planks with name ct_shapeless49665770
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Syzgium Wood Planks with name ct_shapeless-2133087636
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pink Ivory Wood Planks with name ct_shapeless-20873746
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Larch Wood Planks with name ct_shapeless-1292229324
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Teak Wood Planks with name ct_shapeless1034211938
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Desert Acacia Wood Planks with name ct_shapeless1385935396
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lime Wood Planks with name ct_shapeless1737658854
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Chestnut Wood Planks with name ct_shapeless-707358161
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Wenge Wood Planks with name ct_shapeless-970051929
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Baobab Wood Planks with name ct_shapeless-618328471
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sequoia Wood Planks with name ct_shapeless-266605013
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Kapok Wood Planks with name ct_shapeless2065972148
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ebony Wood Planks with name ct_shapeless1320651500
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mahogany Wood Planks with name ct_shapeless1853842641
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Balsa Wood Planks with name ct_shapeless-2089401197
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Willow Wood Planks with name ct_shapeless-1368323044
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Walnut Wood Planks with name ct_shapeless-502144684
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Greenheart Wood Planks with name ct_shapeless-150421226
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cherry Wood Planks with name ct_shapeless201302232
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mahoe Wood Planks with name ct_shapeless-595433543
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Poplar Wood Planks with name ct_shapeless-1894417561
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Palm Wood Planks with name ct_shapeless-1542694103
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Papaya Wood Planks with name ct_shapeless-1190970645
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pine Wood Planks with name ct_shapeless-352864140
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Plum Wood Planks with name ct_shapeless396285868
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Maple Wood Planks with name ct_shapeless748009326
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Citrus Wood Planks with name ct_shapeless1099732784
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Giant Sequoia Wood Planks with name ct_shapeless-1874501127
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ipe Wood Planks with name ct_shapeless-1607977999
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Padauk Wood Planks with name ct_shapeless2134382068
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cocobolo Wood Planks with name ct_shapeless-1808861770
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zebrawood Wood Planks with name ct_shapeless920234495
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Maple Planks with name ct_shapeless374808756
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silverbell Planks with name ct_shapeless1663846562
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Amaranth Planks with name ct_shapeless1994535844
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tigerwood Planks with name ct_shapeless-1969742170
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Willow Planks with name ct_shapeless-1445408058
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Eucalyptus Planks with name ct_shapeless-284395044
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hopseed Planks with name ct_shapeless1349332476
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sakura Planks with name ct_shapeless-1311907300
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redwood Planks with name ct_shapeless359802345
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ghostwood Planks with name ct_shapeless-2067843968
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ghostwood Planks with name ct_shapeless-927191904
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bloodwood Planks with name ct_shapeless1015949995
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Darkwood Planks with name ct_shapeless-1623643137
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fusewood Planks with name ct_shapeless-597227617
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Rubber Wood Planks with name ct_shapeless-1434790987
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fir Wood Planks with name ct_shapeless-426218079
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bucket with name ct_shaped-1053453202
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless1023487397
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-130614180
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-129690659
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-128767138
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-127843617
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless1386789580
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless1110432707
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless1111356228
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless1112279749
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless1113203270
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapdoor with name ct_shapeless59958232
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapdoor with name ct_shapeless-1380410580
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapdoor with name ct_shapeless797180093
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapdoor with name ct_shapeless-296515586
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapdoor with name ct_shapeless-1135503350
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hopper with name ct_shaped823484404
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Shield with name ct_shaped-2041033037
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Anvil with name ct_shaped1514459575
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Table with name ct_shaped2125330086
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Barley Flour with name ct_shapeless-1134069554
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Barley Seeds with name ct_shapeless229897937
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Maple Sticks with name ct_shapeless1317373114
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redwood Sticks with name ct_shapeless-661742660
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silverbell Sticks with name ct_shapeless-448023613
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Amaranth Sticks with name ct_shapeless-1092121662
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tiger Sticks with name ct_shapeless-1736219711
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Willow Sticks with name ct_shapeless1914649536
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Eucalyptus Sticks with name ct_shapeless1270551487
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Hopseed Sticks with name ct_shapeless626453438
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sakura Sticks with name ct_shapeless-17644611
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fusewood Sticks with name ct_shapeless1866774336
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ghostwood Sticks with name ct_shapeless-1924335343
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bloodwood Sticks with name ct_shapeless-644520101
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Darkwood Sticks with name ct_shapeless-972068897
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Glider Wing with name ct_shaped833191609
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Glider Wing with name ct_shaped-933735741
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hang Glider with name ct_shaped-758764129
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sprinkler with name ct_shaped170936987
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Vacuum Hopper with name ct_shaped433116733
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Enchantment Table with name ct_shaped-1132046924
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Anvil with name ct_shaped733356568
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for XP Drain with name ct_shaped-780948026
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fan with name ct_shaped265334414
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for XP Bottler with name ct_shaped-673700030
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Luggage with name ct_shaped-1038696570
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Excavate Modifier with name ct_shaped-1335616452
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clockwork Engine with name ct_shaped129837988
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Survival Generator with name ct_shaped1500730721
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Generator with name ct_shaped533630364
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Generator with name ct_shaped-309758030
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace Generator with name ct_shaped-1099292159
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Generator with name ct_shaped379976606
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oil Generator with name ct_shaped-1033567871
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Culinary Generator with name ct_shaped1069667350
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Overclocked Generator with name ct_shaped121492155
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Potion Generator with name ct_shaped442923895
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Explosive Generator with name ct_shaped1721967227
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Netherstar Generator with name ct_shaped-1934658348
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enervation Dynamo (Basic) with name ct_shaped1474533557
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reactant Dynamo (Basic) with name ct_shaped1443685879
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compression Dynamo (Basic) with name ct_shaped469291175
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steam Dynamo (Basic) with name ct_shaped-444595347
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Portable Generator with name ct_shaped139996687
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powercell (Low) with name ct_shaped1100709231
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powercell (Medium) with name mediumPowerCellRecipe
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powercell (High) with name highPowerCellRecipe
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Information Screen with name ct_shaped-1486119833
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leadstone Fluxduct with name ct_shaped1811144768
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Alchemical Chest with name ct_shaped666911723
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Repair Talisman with name ct_shaped-843095992
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Collector MK1 with name ct_shaped-1622584949
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Anti-Matter Relay MK1 with name ct_shaped1524431560
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Klein Star Ein with name ct_shaped1474831805
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Klein Star Zwei with name ct_shapeless1712763036
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Klein Star Drei with name ct_shapeless-722982405
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Klein Star Vier with name ct_shapeless-2093708454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Klein Star Sphere with name ct_shapeless830532793
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Klein Star Omega with name ct_shapeless-540193256
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Katar with name ct_shaped304402579
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Morningstar with name ct_shaped1593973749
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Matter with name ct_shaped-1275311903
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Matter with name ct_shaped763466797
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gem Helmet with name ct_shaped366555469
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gem Chestplate with name ct_shaped-34479963
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gem Leggings with name ct_shaped-1965386218
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gem Boots with name ct_shaped1249054761
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wither Skeleton Skull with name ct_shaped377853292
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pump with name ct_shaped-1003378820
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Exporter with name ct_shaped1568500232
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped200949153
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Base with name ct_shaped-348777844
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Remote Storage Module with name ct_shaped-1399815322
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Tablet with name ct_shaped255273444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Shape Card (Quarry) with name ct_shaped-121439808
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leadstone Thruster with name ct_shaped-1187568428
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Thruster with name ct_shaped-83081649
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Thruster with name ct_shaped884154957
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonant Thruster with name ct_shaped931965451
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluxed Thruster with name ct_shaped-1383726912
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Glowstone Elevation Unit (Empty) with name ct_shaped1103177369
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leadstone Flux Pack with name ct_shaped-366679403
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Flux Pack with name ct_shaped-352625806
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonant Flux Pack with name ct_shaped660793465
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (I) with name ct_shaped1509012198
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (V) with name ct_shaped-144904658
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (IV) with name ct_shaped1755723519
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (III) with name ct_shaped-1289373602
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (II) with name ct_shaped-734010563
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Key with name ct_shaped-444464894
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compacting Drawer with name ct_shaped1834284407
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Controller Slave with name ct_shaped447924454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Controller with name ct_shaped-1786521709
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Furnace with name ct_shaped-1867440797
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Crystal with name ct_shaped-977575816
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dragon Egg Energy Siphon with name ct_shaped948781082
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Solar Panel with name ct_shaped-436813375
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hybrid Solar Panel with name ct_shaped-2091572305
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Solar Panel with name ct_shaped-926162360
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ultimate Solar Panel with name ct_shaped1469917016
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quantum Solar Panel with name ct_shaped-867578194
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Iron with name ct_shapeless1684514085
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulverized Copper with name ct_shapeless-104304329
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tungsten Ingot with name ct_shaped1531965894
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Standard Machine Casing with name ct_shaped2027015990
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Machine Casing with name ct_shaped1531925604
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Machine Casing with name ct_shaped459939890
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gunpowder with name ct_shapeless1149183532
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Invar Blend with name ct_shapeless-702427082
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wind Mill with name ct_shaped286797031
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Titanium Ingot with name ct_shaped1702095503
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Block of Titanium with name ct_shaped-664821274
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iridium Ore with name ct_shaped-1488870789
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Alarm with name ct_shaped294803039
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Incandescent Lamp with name ct_shaped-1988464850
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Platinum with name ct_shaped-677754572
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Watering Can (Basic) with name ct_shaped-1537008884
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Fluiduct with name ct_shaped-943215752
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Fluiduct (Opaque) with name ct_shaped1144414839
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Itemduct (Opaque) with name ct_shaped-943180346
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Itemduct with name ct_shaped-1255820163
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Vacuum Itemduct with name ct_shapeless-1596508849
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dense Itemduct with name ct_shapeless1832329743
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Vacuum Itemduct (Opaque) with name ct_shapeless1356055649
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dense Itemduct (Opaque) with name ct_shapeless1343446369
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sawmill (Basic) with name ct_shaped-1546651281
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonant Upgrade Kit with name ct_shaped567140217
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Signalum Upgrade Kit with name ct_shaped-1623662886
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Upgrade Kit with name ct_shaped-1056372677
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Upgrade Kit with name ct_shaped1674670430
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux Capacitor (Basic) with name ct_shaped-2119293919
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stick with name ct_shapeless1636284403
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rich Slag with name ct_shaped-1528537434
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Crucible (Basic) with name ct_shaped-1134509589
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Grout with name ct_shaped-1658917995
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item Translocator with name ct_shaped-792681709
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Liquid Translocator with name ct_shaped474793300
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item Barrel with name ct_shaped-1948232279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infinite Capacity with name ct_shaped-878303952
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Tier with name ct_shaped1522168014
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Tier with name ct_shaped-1285673744
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Tier with name ct_shaped-1915274136
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <techreborn:part:32>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <techreborn:part:32>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <techreborn:ingot:19>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <techreborn:ingot:19>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <refinedstorage:silicon>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <refinedstorage:silicon>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <appliedenergistics2:material:5>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <appliedenergistics2:material:5>
+[POSTINITIALIZATION][CLIENT][INFO] Removing seeds <extratrees:hops>
+[POSTINITIALIZATION][CLIENT][INFO] Removing seeds <natura:overworld_seeds:1>
+[POSTINITIALIZATION][CLIENT][INFO] Removing seeds <natura:overworld_seeds>
+[POSTINITIALIZATION][CLIENT][INFO] Removing seeds <immersiveengineering:seed>
+[POSTINITIALIZATION][CLIENT][INFO] Adding seed entry <minecraft:carrot>
+[POSTINITIALIZATION][CLIENT][INFO] Adding seed entry <minecraft:potato>
+[POSTINITIALIZATION][CLIENT][INFO] Adding seed entry <minecraft:beetroot_seeds>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <minecraft:iron_ingot> and <minecraft:sand>
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <extrautils2:ingredients:13>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:log>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:log2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:log2:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:log:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:log:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:log:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.0>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.0:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.0:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.0:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.1:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.1:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.1:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.2:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.2:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.2:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.3:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.3:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.3:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.4>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.4:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.4:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.4:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.5>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.5:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.5:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.5:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.6>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.6:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.6:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.6:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.7>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.7:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.7:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.7:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.8>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.8:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.8:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:logs.8:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.0>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.0:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.0:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.0:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.1:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.1:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.1:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.2:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.2:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.2:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.3:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.3:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.3:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.4>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.4:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.4:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.4:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.5>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.5:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.5:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.5:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.6>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.6:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.6:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.6:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:logs.7>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs2:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs2:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_logs2:3>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:redwood_logs:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_logs>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_logs2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_logs:1>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_logs:2>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <techreborn:rubber_log>
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <traverse:fir_log>
+[AVAILABLE][CLIENT][INFO] Removing 0 Solderer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Transposer Fill Recipe(s) for <techreborn:ingot:16>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:770> * 4 and <thermalfoundation:material:67>
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <libvulpes:structuremachine>
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <bigreactors:ingotmetals:2>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Carpenter Recipe(s) for Blutonium Ingot
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:cryotheum> * 15
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <harvestcraft:shippingbin>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Carpenter Recipe(s) for Industrial Hemp Seeds
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:latex> * 250
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks:5> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <minecraft:planks:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:5> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:6> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:7> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:8> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:9> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:10> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:11> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:12> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:13> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:14> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.0:15> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:5> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:6> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:7> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:8> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:9> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:10> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:11> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:12> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:13> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:14> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.1:15> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.2:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.2:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <extratrees:planks.2:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:5> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:7> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:8> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:9> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:10> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:11> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:12> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:13> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:14> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.0:15> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:5> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:6> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:7> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:8> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:9> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:10> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:11> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <forestry:planks.1:12> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:4> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:5> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:6> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:7> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:overworld_planks:8> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_planks:1> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_planks:2> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <natura:nether_planks:3> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <techreborn:rubber_planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Sawmill Recipe(s) for <traverse:fir_planks> * 4
+[AVAILABLE][CLIENT][INFO] Altering Drying Recipe(s) for <minecraft:leather>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <techreborn:part:29>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <techreborn:part:30>
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:steel> * 144
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cast_custom:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <harvestcraft:hardenedleatherhelmitem>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <harvestcraft:hardenedleatherchestitem>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <harvestcraft:hardenedleatherleggingsitem>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <harvestcraft:hardenedleatherbootsitem>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device1:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:part:32>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:part:31>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extratrees:machine>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:thermal_generator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_lava"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_ender"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_redstone"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_slime"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_pink"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_ice"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_death"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:generator_dragonsbreath"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:rainbowgenerator:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:rainbowgenerator:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:rainbowgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:iron_alloy_furnace>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:grocket:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:irondrill>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:diamonddrill>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:advanceddrill>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "minecraft:iron_block", Count: 1 as byte, Damage: 0 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "tconstruct:metal", Count: 1 as byte, Damage: 4 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "tconstruct:metal", Count: 1 as byte, Damage: 3 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "tconstruct:metal", Count: 1 as byte, Damage: 5 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "chisel:blockcobalt", Count: 1 as byte, Damage: 0 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "tconstruct:metal", Count: 1 as byte, Damage: 1 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "tconstruct:metal", Count: 1 as byte, Damage: 2 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "minecraft:gold_block", Count: 1 as byte, Damage: 0 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage_alloy", Count: 1 as byte, Damage: 4 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 5 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 1 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "techreborn:storage", Count: 1 as byte, Damage: 5 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 0 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage_alloy", Count: 1 as byte, Damage: 3 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 3 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 2 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage_alloy", Count: 1 as byte, Damage: 1 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 4 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage_alloy", Count: 1 as byte, Damage: 0 as short}})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:drill>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:drillhead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:drillhead:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:laser_base>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:laser_drill>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_miner>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_drill_upgrade_five_by_five>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:cast_custom:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:clay_cast>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:engine_biogas>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:upgrade:33>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:upgrade:34>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:upgrade:35>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:upgrade:256>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermaldynamics:duct_16>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermaldynamics:duct_16:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:crafter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:security_manager>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage_monitor>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:crafting_monitor>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:portable_grid>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:portable_grid:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:grid:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:grid:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:pattern>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_disk:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_disk:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_disk:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_disk:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_disk>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage_disk:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:network_receiver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:network_transmitter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_transmitter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_interface>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:interface>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:relay>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:detector>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:writer>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:reader>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:destructor>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:constructor>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:storage:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:controller:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_fluid_grid:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_fluid_grid>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_crafting_monitor:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_crafting_monitor>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_grid:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:wireless_grid>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_part:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_part:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_part:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:fluid_storage_part>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:security_card>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:network_card>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:upgrade:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <refinedstorage:crafter_manager>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:throwball:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:productrod:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:productrod:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:productplate:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:environmental_controller>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:material:16>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <translocators:diamond_nugget>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:block_placer>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <openblocks:block_placer>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:user>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:block_destroyer>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <openblocks:block_breaker>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:miner>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <openblocks:golden_egg>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_leaf_generator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_xp_solidifier>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_grinder>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_heat_collector>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_furnace_solar>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_furnace_double>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_grinder_double>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:sickle_wood>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:sickle_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:itembuilderswand>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:itemdestructionwand>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <torchmaster:terrain_lighter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:kit_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:broken_bronze_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:broken_bronze_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:kit_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:bronze_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:bronze_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <advancedrocketry:platepress>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:regeneration_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:regenerationplus_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:speed_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:speedplus_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:haste_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:flight_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:featherfallingplus_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:featherfalling_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:saturationplus_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:luck_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:glowing_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:slowness_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:saturation_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:hasteplus_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:peaceful_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:waterbreathing_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:nightvision_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:blindness_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:weakness_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:poison_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:noteleport_module>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:powertransmitter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:energy_field_provider>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:energy_field_addon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:dust:63>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:smalldust:65>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:dust:62>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:smalldust:64>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:dust:61>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:smalldust:63>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:256>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:257>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:258>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:273>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:303>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:304>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:336>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:337>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:656>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:augment:720>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:glass_alloy:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ae2stuff:wireless>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ae2stuff:wireless_kit>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:material:802>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:storage_resource:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:ore0:10>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:ore0:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:ore0:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:ore0:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:ore0:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalfoundation:ore:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore2:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore:11>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:ore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:dimensional_shard_ore:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:dimensional_shard_ore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:dimensional_shard_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:resources:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:resources:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_mining_lens>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:material:19>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:material:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:material:15>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:material:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chesttransporter:chesttransporter_iron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chesttransporter:chesttransporter_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chesttransporter:chesttransporter_gold>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chesttransporter:chesttransporter_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chesttransporter:chesttransporter_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <chesttransporter:chesttransporter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bibliocreativelock>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bibliocraft:bookcasecreative>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:creative_storage_cell>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagedrawers:upgrade_creative:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:creative_solar_panel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <theoneprobe:creativeprobe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:reservoir:32000>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:creativepowerbattery>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <wct:wct_creative>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <yabba:upgrade_creative>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemjetpack>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:itemfluxpack>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <stevescarts:upgrade:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <stevescarts:cartmodule:61>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <stevescarts:cartmodule:72>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <stevescarts:cartmodule:76>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <stevescarts:cartmodule:96>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <stevescarts:cartmodule:97>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagedrawers:upgrade_creative>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:creative_screen>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:reactorcreativecoolantport>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:turbinecreativesteamgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:creativeharvest>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:creativechest>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:spike_creative>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:itemcreativebuilderswand>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:itemcreativedestructionwand>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:creative_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:drum:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <darkutils:trap_tile:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <efab:upgrade_magic>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <engineersworkshop:upgrade:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:lonsdaleite_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:aethium_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:ionite_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:pladium_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:kyronite_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:erodium_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:litherite_crystal>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:mica>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:diode>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <environmentaltech:void_res_miner_cont_6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:tuberous_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:wooden_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:stone_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:golden_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:iron_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:diamond_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:emerald_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:obsidian_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:exchanger_core_tier1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:exchanger_core_tier3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:exchanger_core_tier2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:ie_exchanger_core_tier3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:ie_exchanger_core_tier2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:ie_exchanger_core_tier1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:hv_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:mv_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exchangers:lv_exchanger>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:wateringcan>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:wateringcan:1000>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:furnace"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:crusher"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:angelring:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:angelring:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:angelring:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:angelring:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:angelring:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:chickenring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:chickenring:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:angelring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:powerbattery>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:spike_iron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:spike_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:passivegenerator:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:minerals>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:minerals:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:brore:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:brore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:brore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:blockmetals>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forge:bucketfilled>.withTag({FluidName: "yellorium", Amount: 1000})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:reactorpowertaptesla>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:turbinepowertaptesla>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:turbinecomputerport>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <bigreactors:reactorcomputerport>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:diamond_obsidian_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:diamond_obsidian_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:wood_copper_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:wood_iron_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:diamond_crystal_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:copper_iron_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:silver_gold_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:copper_silver_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:gold_diamond_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ironchest:iron_gold_chest_upgrade>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:147>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:148>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:128>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:129>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:130>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:146>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:131>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:frame:132>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:low_voltage_su>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:cell>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:creative_energy_cell>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device0:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:powercell_simple>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:powercell_creative>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:powercell_advanced>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:powercell>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_battery_box>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:lapotronic_su>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:lsu_storage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:adjustable_su>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:interdimensional_su>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <fluxnetworks:fluxstorage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <fluxnetworks:herculeanfluxstorage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <fluxnetworks:gargantuanfluxstorage>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:medium_voltage_su>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:high_voltage_su>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device0>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device0:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device0:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftoolspower:power_core1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftoolspower:power_core2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftoolspower:power_core3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_alchemical_bag:*>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_catalitic_lens>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_tome>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_transmutation_tablet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_manual>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_water_orb>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_lava_orb>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_randomizer>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_lens_explosive>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_fire_projectile>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_wind_projectile>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_fuel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_philosophers_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:transmutation_table>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:nova_cataclysm>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:nova_catalyst>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:fuel_block:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:fuel_block:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:fuel_block>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_hyperkinetic_lens>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_life_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_mind_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_soul_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_body_stone>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_arcana_ring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_arcana_ring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_arcana_ring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_arcana_ring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_void_ring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_gem_density>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_time_watch>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_swrg>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_zero_ring>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_ignition>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_harvest_god>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_covalence_dust:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_covalence_dust:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_covalence_dust>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_fuel:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_fuel:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_destruction_catalyst>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_divining_rod_1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_divining_rod_2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <projecte:item.pe_divining_rod_3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:powercell_card>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <techreborn:cable>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:satchel:*>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:slime_boots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:slime_boots:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:slime_boots:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:slime_boots:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:slime_boots:4>
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
